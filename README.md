@@ -12,4 +12,4 @@ To use Mumble-ATIS, follow these steps:
 
 ## Supported Platforms
 
-Mumble-ATIS supports the Advanced Flight Server, which is a closed-source solution developed by myself. It is authorized to be used with several flight simulation platforms, including Vatsim FSD protocol. The Advanced Flight Server provides comprehensive support for almost all Vatsim features. The pricing for the Advanced Flight Server is negotiable.
+Mumble-ATIS supports the Advanced Flight Server, which is a closed-source solution developed by myself. It is authorized to be used with several flight simulation platforms, using Vatsim FSD protocol. The Advanced Flight Server provides comprehensive support for almost all Vatsim features. The pricing for the Advanced Flight Server is negotiable.
